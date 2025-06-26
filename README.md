@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+
+
+![](https://raw.githubusercontent.com/rr-jiawei-bai/rr-jiawei-bai/refs/heads/output/github-contribution-grid-snake.svg)
 <!--
 **rr-jiawei-bai/rr-jiawei-bai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
