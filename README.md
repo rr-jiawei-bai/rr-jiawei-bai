@@ -4,7 +4,8 @@
 
 
 
-![](https://raw.githubusercontent.com/rr-jiawei-bai/rr-jiawei-bai/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/rr-jiawei-bai/rr-jiawei-bai/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/rr-jiawei-bai/rr-jiawei-bai/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!--
 **rr-jiawei-bai/rr-jiawei-bai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
